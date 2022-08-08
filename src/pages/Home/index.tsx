@@ -2,7 +2,7 @@ import { HandPalm, Play } from 'phosphor-react'
 import {
   HomeContainer,
   StartCountdownButton,
-  StopCountdowmButton
+  StopCountdowmButton,
 } from './styles'
 
 import { useContext } from 'react'
